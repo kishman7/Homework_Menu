@@ -1,0 +1,40 @@
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\bin\Debug\MenuDemo.exe.config
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\bin\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\bin\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.Form1.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Classwork_RichTextBox\MenuDemo\obj\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\bin\Debug\MenuDemo.exe.config
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\bin\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\bin\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.Form1.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\MenuDemo\obj\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\bin\Debug\MenuDemo.exe.config
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\bin\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\bin\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.Form1.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Linq toSQL\Homework_Menu\obj\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\bin\Debug\MenuDemo.exe.config
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\bin\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\bin\Debug\MenuDemo.pdb
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.Form1.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.exe
+f:\YURKO\SHAG\Project C#\16_25072021_Lab_WindowsForm (RichTextBox, MDI)_Entity\Homework_Menu\obj\Debug\MenuDemo.pdb
